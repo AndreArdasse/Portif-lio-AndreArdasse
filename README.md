@@ -74,5 +74,5 @@ I am a developer focused on building robust backend solutions and modern, semant
 
 Vamos nos conectar e trocar ideias sobre tecnologia! / *Let's connect and talk about technology!*
 
-*   **LinkedIn:** [André Ardasse Monteiro Lima] linkedin.com/in/andreardasse
+*   **LinkedIn:** [André Ardasse Monteiro Lima] [linkedin.com/in/andreardasse](https://www.linkedin.com/in/andreardasse/)
 *   **E-mail:** andreardasse15@gmail.com
